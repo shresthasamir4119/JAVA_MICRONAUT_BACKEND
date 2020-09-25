@@ -1,4 +1,0 @@
-todo/app/todo/model/Todo.java
- todo.app.todo.model.Todo
-todo/app/Application.java
- todo.app.Application
