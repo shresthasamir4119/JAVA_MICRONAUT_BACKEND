@@ -1,8 +1,6 @@
 package todo.app.todo.model;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity(name = "todos")
 @Table(schema = "todo")
